@@ -2,7 +2,7 @@
 
 ## POC for decrypting PDQ SmartDeploy credentials
 
-Prior to version 3.0.2046, PDQ SmartDeploy used static, hard-coded, universal encryption keys for credential storage. More information can be found here.
+Prior to version 3.0.2046, PDQ SmartDeploy used static, hard-coded, universal encryption keys for credential storage. More information can be found PLACEHOLDER.
 
 ## Installation
 
